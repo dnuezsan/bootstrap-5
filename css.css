@@ -1,0 +1,63 @@
+body{
+    font-size: 10px;
+}
+
+h4{
+    color: white;
+    font-size: 2em;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    font-size: 1.2em;
+}
+
+li{
+    padding: 0px 1%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+p{
+    font-size: 2em;
+}
+
+/* clases */
+
+.card p{
+    font-size: 1.1em;
+    text-align: justify;
+}
+
+/* identificadores */
+
+#logo{
+    text-align: left;
+}
+
+#logo2 img{
+    width: 30%;
+}
+
+#bocadillo{
+    width: 110px;
+}
+
+#monecos{
+    width: 110px;
+}
+
+#prefooter{
+    background-color: #3F6EA2 ;
+}
+
+/* footer */
+
+footer{
+    background-color: #34485E;
+}
